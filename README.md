@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
 
 <img src="https://avatars.githubusercontent.com/u/125456793?v=4" width="120" style="border-radius:50%"/>
 
@@ -92,3 +92,4 @@ Flutter developer focused on building polished mobile experiences with clean arc
 **Open to Flutter internship & junior roles — feel free to reach out!**
 
 </div>
+](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedkhatab17&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
