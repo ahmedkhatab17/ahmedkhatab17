@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-Flutter developer focused on building polished mobile experiences with clean architecture. Currently training at **INSTANT** and finishing my graduation project — a full-stack medical booking platform.
+Flutter developer focused on building polished mobile experiences with clean architecture. Currently finishing my graduation project — a full-stack medical booking platform.
 
 - 📱 Primary focus: **Flutter** cross-platform apps
 - 🔧 Backend: **ASP.NET Core 8** + **Supabase** (PostgreSQL, Realtime, Storage)
