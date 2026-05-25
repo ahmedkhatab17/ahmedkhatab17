@@ -78,8 +78,10 @@ Flutter developer focused on building polished mobile experiences with clean arc
 
 <div align="center">
 
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedkhatab17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedkhatab17&layout=compact&theme=tokyonight&hide_border=true)
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedkhatab17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedkhatab17&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ahmedkhatab17&theme=tokyonight&hide_border=true)
 
 </div>
 
